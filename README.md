@@ -1,6 +1,6 @@
 # Machine_Learning
 
-Welcome to the Machine_Learning repository! This project is dedicated to providing a comprehensive collection of machine learning algorithms, tutorials, and projects for both beginners and advanced practitioners. Our goal is to make machine learning accessible, understandable, and practical for everyone.
+Welcome to the Machine_Learning repository! This project is dedicated to providing a comprehensive collection of machine learning algorithms, tutorials, and projects for both beginners and advanced practitioners. Our goal is We aim to make machine learning accessible, understandable, and practical for everyone.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,24 +17,24 @@ This repository includes:
 - Implementations of popular machine learning algorithms
 - Jupyter notebooks with detailed explanations and examples
 - Data preprocessing and feature engineering techniques
-- Tutorials and guides on various machine learning topics
+- Tutorials and guides on various machine-learning topics
 - Projects and case studies to demonstrate real-world applications
 
 ## Features of AI and Machine Learning
 Artificial Intelligence (AI) and Machine Learning (ML) are powerful technologies that enable computers to learn from data and perform tasks that typically require human intelligence. Here are some key features:
 
 ### 1. **Supervised Learning**
-Supervised learning involves training a model on a labeled dataset, which means the input data is paired with the correct output. It includes:
+Supervised learning involves training a model on a labelled dataset, which means the input data is paired with the correct output. It includes:
 - **Regression**: Predicting continuous values (e.g., predicting house prices).
 - **Classification**: Categorizing data into predefined classes (e.g., spam detection).
 
 ### 2. **Unsupervised Learning**
-Unsupervised learning involves training a model on data without labeled responses. It includes:
+Unsupervised learning involves training a model on data without labelled responses. It includes:
 - **Clustering**: Grouping data points into clusters based on similarity (e.g., customer segmentation).
-- **Association**: Finding rules that describe large portions of the data (e.g., market basket analysis).
+- **Association**: Finding rules describing large data portions (e.g., market basket analysis).
 
 ### 3. **Reinforcement Learning**
-Reinforcement learning involves training an agent to make a sequence of decisions by rewarding desirable actions and punishing undesirable ones. It is commonly used in:
+Reinforcement learning involves training an agent to make decisions by rewarding desirable actions and punishing undesirable ones. It is commonly used in:
 - **Game AI**: Developing strategies for playing games.
 - **Robotics**: Teaching robots to perform tasks.
 
@@ -58,7 +58,7 @@ Evaluating the performance of machine learning models and optimizing their param
 ## Installation
 To get started, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Machine_Learning.git
+https://github.com/Pushkar745/Machine_Learning.git
 Machine_Learning/
 │
 ├── algorithms/
